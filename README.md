@@ -4,7 +4,6 @@
 Welcome to my personal portfolio website!  
 This site showcases my skills, projects, certifications, and achievements in Web Development, AI/ML, and Data Science.
 
-![Screenshot of Portfolio](preview.png) <!-- Optional: Add a preview image of your site -->
 
 ---
 
