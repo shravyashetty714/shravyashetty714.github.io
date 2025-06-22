@@ -42,8 +42,3 @@ Replace the above link with your live GitHub Pages URL if hosted.
 
 ---
 
-## 📂 How to Use / Run Locally
-
-1. Clone this repo  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
