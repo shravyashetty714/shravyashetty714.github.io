@@ -36,7 +36,7 @@ From predictive healthcare models to interactive web design — I'm driven by cr
 
 ## 🌐 Live Demo
 
-> 🔗 [Click to View Portfolio](https://your-github-username.github.io/your-repo-name)
+> 🔗 [Click to View Portfolio](https://shravyashetty714.github.io/)
 
 Replace the above link with your live GitHub Pages URL if hosted.
 
